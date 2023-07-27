@@ -13,8 +13,8 @@ footer{
 }
 
 .container-fluid {
-    padding: 1% 15%;
-    padding-top: 2%;
+    padding: 0% 15%;
+    /* margin-left: 650px; */
 }
 footer a{
     color: #fff;
